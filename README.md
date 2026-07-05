@@ -2,6 +2,16 @@
 
 一键清除 Windows 远程桌面（mstsc.exe）的连接历史记录。
 
+**当前版本：v1.0.0**
+
+## 下载
+
+无需安装 Python，直接下载 exe 使用：
+
+[下载 RDP_Cleaner.exe (v1.0.0)](https://github.com/datuzi-vip/rdp_cleaner/releases/download/v1.0.0/RDP_Cleaner.exe)
+
+更多版本见 [Releases](https://github.com/datuzi-vip/rdp_cleaner/releases)。
+
 ## 功能
 
 - 清除注册表 MRU 最近连接列表
